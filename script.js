@@ -19,15 +19,6 @@
 
     $(document).ready(function() {
 
-        //Hide header
-        $(".YDC-Header").css("display","none");
-        $("#Lead-0-Ad-Proxy").css("display","none");
-        $("#Lead-2-FeatureBar-Proxy").css("display","none");
-        $("#Lead-2-FeatureBar-Proxy").css("display","none");
-        $("#mrt-node-Lead-1-FinanceHeader").css("display","none"); //S&P Dow charts
-        $("#Lead-3-Portfolios-Proxy > main > header").css("display","none"); // portfolio selector
-        $("#render-target-default .finance.SG").css("margin-top","0px");
-
         //hide posts
         $($("#YDC-Col1")[0].parentNode).css("display","none")
 
