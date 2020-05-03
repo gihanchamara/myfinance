@@ -7,6 +7,14 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+#Lead-3-Portfolios-Proxy > main > div > section,
+#Lead-3-Portfolios-Proxy > main > div > div > div.Mb\(15px\){
+    display:none;
+}
+
+#atomic .Pend\(20px\),#atomic .Pend\(navPaddings\),#atomic .Px\(20px\),#atomic .Px\(20px\)--tab1024px,#atomic .Px\(navPaddings\) {
+    padding:0px;
+}
 
 body,mark {
     color: #b9bdc5
