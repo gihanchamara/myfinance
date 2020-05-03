@@ -12,6 +12,20 @@ body {
     display:none;
 }
 
+#atomic .Bgc\(\$extraLightBlue\)\:h:hover {
+    background-color: #222;
+    color:#fff;
+    border-color:#2591f9;
+}
+
+.simpTblRow:hover .simpTblRow\:h_Bgc\(\$extraLightBlue\) {
+    background-color: #222 !important;
+}
+#atomic .V\(h\) {
+    visibility: hidden;
+    display: none;
+}
+
 #atomic .Pend\(20px\),#atomic .Pend\(navPaddings\),#atomic .Px\(20px\),#atomic .Px\(20px\)--tab1024px,#atomic .Px\(navPaddings\) {
     padding:0px;
 }
