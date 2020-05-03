@@ -5,6 +5,7 @@
 // @description  try to take over the world!
 // @author       You
 // @match        https://sg.finance.yahoo.com/portfolio/*/view/*
+// @match        https://finance.yahoo.com/portfolio/*/view/*
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 // @resource darkcss https://raw.githubusercontent.com/gihanchamara/myfinance/master/atomic-dark.7e389584.css
