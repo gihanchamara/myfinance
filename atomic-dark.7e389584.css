@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: #060606;
+    background: #000000;
     font: 13px/1.3 "Helvetica Neue",Helvetica,Arial,sans-serif;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -26,11 +26,11 @@ body,mark {
 }
 
 #atomic .Bgc\(\$layoutBgColor\)\!,#atomic .Bgc\(\$lv3BgColor\)\! {
-    background-color: #000!important;
+    background-color: #000000!important;
 }
 
 .selected-sub .selected-sub_Bgc\(\$navSelectedBlue\),.Selected .Selected_Bgc\(\$navSelectedBlue\),.selected .selected_Bgc\(\$navSelectedBlue\) {
-    background-color: #0e0e0e!important;
+    background-color: #000000!important;
 }
 
 #atomic .C\(black\)\!,.selected-sub .selected-sub_C\(black\),.selected .selected_C\(black\),.Selected .Selected_C\(black\) {
@@ -39,11 +39,11 @@ body,mark {
 
 
 #atomic .Bgc\(\$bgTile\),#atomic .Bgc\(\$layoutBgColor\),#atomic .Bgc\(\$lv2BgColor\),#atomic .Bgc\(\$lv3BgColor\) {
-    background-color: #131212
+    background-color: #000000
 }
 
 #atomic .Bgc\(white\) {
-    background-color: #060606;
+    background-color: #000000;
 }
 
 #atomic .Bgc\(\$altRowColor\),#atomic .Bgc\(\$panelBackground\) {
